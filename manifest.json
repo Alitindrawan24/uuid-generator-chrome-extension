@@ -1,0 +1,15 @@
+{
+    "name": "UUID Generator",
+    "version": "1.0.0",
+    "description": "Generator for UUID",
+    "manifest_version": 3,
+    "author": "Alt24",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "UUID Generator"
+    },
+    "icons": {
+        "48": "./assets/icons/48.png",
+        "128": "./assets/icons/128.png"
+    }
+}
